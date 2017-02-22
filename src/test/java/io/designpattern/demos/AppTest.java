@@ -1,5 +1,10 @@
 package io.designpattern.demos;
 
+import java.text.DateFormat;
+import java.text.Format;
+import java.util.Date;
+import java.util.Locale;
+
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
@@ -33,6 +38,14 @@ public class AppTest
      */
     public void testApp()
     {
+    	
+    	DateFormat format = DateFormat.getDateInstance(DateFormat.FULL);
+    	
+    	String year = format.format(new Date());
+    	
+    	System.out.println(year);
+    	
         assertTrue( true );
     }
+    
 }
