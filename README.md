@@ -69,7 +69,7 @@
 * [简单工厂模式](src/main/java/io/designpattern/demos/factorypattern/StaticFactoryPattern.md)
 * [简单方法模式](src/main/java/io/designpattern/demos/simplefactorypattern/FactoryMethodPattern.md)
 * [抽象工厂模式](src/main/java/io/designpattern/demos/simplefactorypattern/AbstractFactoryPattern.md)
-* [建造者模式](src/main/java/io/designpattern/demos/simplefactorypattern/AbstractFactoryPattern.md)
+* [建造者模式](src/main/java/io/designpattern/demos/simplefactorypattern/BuilderPattern.md)
 * [原型模式](src/main/java/io/designpattern/demos/simplefactorypattern/AbstractFactoryPattern.md)
 * [单例模式](src/main/java/io/designpattern/demos/simplefactorypattern/AbstractFactoryPattern.md)
 
